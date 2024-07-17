@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Владислав Статьёв](https://up.htmlacademy.ru/htmlcss-individual/2/user/1787023).
-* Наставник: `Неизвестно`.
+* Студент: [Владислав Статьев](https://up.htmlacademy.ru/htmlcss-individual/2/user/1787023).
+* Наставник: `Кто-то :0`
 
 ---
 
